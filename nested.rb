@@ -15,7 +15,7 @@ def hopper
           :languages => ["C"]
         }
      }
-return [:grace_hopper]
+return {:known_for=>"COBOL", :languages=>["COBOL", "FORTRAN"]}
 end
 
 def alan_kay_is_known_for
